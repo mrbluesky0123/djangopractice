@@ -1,0 +1,28 @@
+[2019-02-16 01:40:34,931](INFO)POINT_USE : POINT_USE service started at 20190216014034
+[2019-02-16 01:40:34,932](INFO)POINT_USE : Input data: {'crd_no': '1234123412341234', 'mcht_no': '20008795', 'deal_amt': 12}
+[2019-02-16 01:40:34,939](INFO)POINT_USE : [crd_no: 1234123412341234][crd_sts: A]
+[2019-02-16 01:40:34,941](INFO)POINT_USE : [crd_no: 1234123412341234][mbr_id: 1207151000]
+[2019-02-16 01:40:34,942](INFO)POINT_USE : [mbr_id: 1207151000][mbr_sts: A]
+[2019-02-16 01:40:34,944](INFO)POINT_USE : [mcht_no: 20008795][mcht_sts: A]
+[2019-02-16 01:40:34,955](INFO)POINT_USE : [mbr_id: 1207151000][point: 8516]
+[2019-02-16 01:40:35,039](INFO)POINT_USE : Approve info from external API: {'payload': [{'approveNumber': {'aprv_dy': '20190216', 'aprv_tm': '104034', 'aprv_no': 'F90001174', 'rep_aprv_no': 'F90001174'}}], 'message': None, 'status': 'success'}
+[2019-02-16 01:53:26,635](INFO)POINT_USE : POINT_USE service started at 20190216015326
+[2019-02-16 01:53:26,636](INFO)POINT_USE : Input data: {'crd_no': '1234123412341234', 'mcht_no': '20008795', 'deal_amt': 12}
+[2019-02-16 01:53:26,642](INFO)POINT_USE : [crd_no: 1234123412341234][crd_sts: A]
+[2019-02-16 01:53:26,643](INFO)POINT_USE : [crd_no: 1234123412341234][mbr_id: 1207151000]
+[2019-02-16 01:53:26,644](INFO)POINT_USE : [mbr_id: 1207151000][mbr_sts: A]
+[2019-02-16 01:53:26,646](INFO)POINT_USE : [mcht_no: 20008795][mcht_sts: A]
+[2019-02-16 01:53:26,649](INFO)POINT_USE : [mbr_id: 1207151000][point: 8504]
+[2019-02-16 01:53:26,723](INFO)POINT_USE : Approve info from external API: {'aprv_dy': '20190216', 'aprv_tm': '105326', 'aprv_no': 'F90001178', 'rep_aprv_no': 'F90001178'}
+[2019-02-16 01:53:26,723](INFO)POINT_USE : POINT_USE service finished at 20190216015326
+[2019-02-16 01:53:26,723](INFO)POINT_USE : Elapsed time: 0.0874323844909668
+[2019-02-16 01:54:31,311](INFO)POINT_USE : POINT_USE service started at 20190216015431
+[2019-02-16 01:54:31,311](INFO)POINT_USE : Input data: {'crd_no': '1234123412341234', 'mcht_no': '20008795', 'deal_amt': 12}
+[2019-02-16 01:54:31,316](INFO)POINT_USE : [crd_no: 1234123412341234][crd_sts: A]
+[2019-02-16 01:54:31,317](INFO)POINT_USE : [crd_no: 1234123412341234][mbr_id: 1207151000]
+[2019-02-16 01:54:31,318](INFO)POINT_USE : [mbr_id: 1207151000][mbr_sts: A]
+[2019-02-16 01:54:31,319](INFO)POINT_USE : [mcht_no: 20008795][mcht_sts: A]
+[2019-02-16 01:54:31,321](INFO)POINT_USE : [mbr_id: 1207151000][point: 8492]
+[2019-02-16 01:54:31,395](INFO)POINT_USE : Approve info from external API: {'aprv_dy': '20190216', 'aprv_tm': '105431', 'aprv_no': 'F90001179', 'rep_aprv_no': 'F90001179'}
+[2019-02-16 01:54:31,395](INFO)POINT_USE : POINT_USE service finished at 20190216015431
+[2019-02-16 01:54:31,395](INFO)POINT_USE : Elapsed time: 0.0837564468383789

@@ -1,0 +1,638 @@
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Feb 19 00:54:19 2019] ***
+compiled with version: 5.4.0 20160609 on 14 February 2019 15:26:01
+os: Linux-4.4.0-104-generic #127-Ubuntu SMP Mon Dec 11 12:16:42 UTC 2017
+nodename: mrblueSky
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/mrbluesky/mrbluesky_env/use_service
+detected binary path: /home/mrbluesky/mrbluesky_env/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 3810
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 198.13.47.188:8001 fd 3
+Python version: 3.6.4 (default, Dec 19 2017, 17:29:45)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/mrbluesky/mrbluesky_env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1878a60
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 72920 bytes (71 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x1878a60 pid: 30932 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (and the only) (pid: 30932, cores: 1)
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Feb 19 00:56:02 2019] ***
+compiled with version: 5.4.0 20160609 on 14 February 2019 15:26:01
+os: Linux-4.4.0-104-generic #127-Ubuntu SMP Mon Dec 11 12:16:42 UTC 2017
+nodename: mrblueSky
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/mrbluesky/mrbluesky_env/use_service
+detected binary path: /home/mrbluesky/mrbluesky_env/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 3810
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 198.13.47.188:8000 fd 3
+Python version: 3.6.4 (default, Dec 19 2017, 17:29:45)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/mrbluesky/mrbluesky_env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x15cea50
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 72920 bytes (71 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x15cea50 pid: 30959 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (and the only) (pid: 30959, cores: 1)
+invalid request block size: 21327 (max 4096)...skip
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Feb 19 00:57:48 2019] ***
+compiled with version: 5.4.0 20160609 on 14 February 2019 15:26:01
+os: Linux-4.4.0-104-generic #127-Ubuntu SMP Mon Dec 11 12:16:42 UTC 2017
+nodename: mrblueSky
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/mrbluesky/mrbluesky_env/use_service
+detected binary path: /home/mrbluesky/mrbluesky_env/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 3810
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/mrbluesky/mrbluesky_env/use_service/memorist.sock fd 3
+Python version: 3.6.4 (default, Dec 19 2017, 17:29:45)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/mrbluesky/mrbluesky_env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x217b660
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 72920 bytes (71 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x217b660 pid: 30978 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (and the only) (pid: 30978, cores: 1)
+VACUUM: unix socket /home/mrbluesky/mrbluesky_env/use_service/memorist.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Feb 19 01:03:51 2019] ***
+compiled with version: 5.4.0 20160609 on 14 February 2019 15:26:01
+os: Linux-4.4.0-104-generic #127-Ubuntu SMP Mon Dec 11 12:16:42 UTC 2017
+nodename: mrblueSky
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/mrbluesky/mrbluesky_env/use_service
+detected binary path: /home/mrbluesky/mrbluesky_env/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+your processes number limit is 3810
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/mrbluesky/mrbluesky_env/use_service/memorist.sock fd 3
+Python version: 3.6.4 (default, Dec 19 2017, 17:29:45)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/mrbluesky/mrbluesky_env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0xd07690
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0xd07690 pid: 31023 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31023)
+spawned uWSGI worker 1 (pid: 31025, cores: 1)
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Feb 19 01:12:48 2019] ***
+compiled with version: 5.4.0 20160609 on 14 February 2019 15:26:01
+os: Linux-4.4.0-104-generic #127-Ubuntu SMP Mon Dec 11 12:16:42 UTC 2017
+nodename: mrblueSky
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/mrbluesky/mrbluesky_env/use_service
+detected binary path: /home/mrbluesky/mrbluesky_env/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+your processes number limit is 3810
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 198.13.47.188:8000 fd 3
+Python version: 3.6.4 (default, Dec 19 2017, 17:29:45)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/mrbluesky/mrbluesky_env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0xe51aa0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0xe51aa0 pid: 31064 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31064)
+spawned uWSGI worker 1 (pid: 31066, cores: 1)
+invalid request block size: 21327 (max 4096)...skip
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/mrbluesky/mrbluesky_env/use_service/memorist.sock removed.
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Feb 19 01:16:00 2019] ***
+compiled with version: 5.4.0 20160609 on 14 February 2019 15:26:01
+os: Linux-4.4.0-104-generic #127-Ubuntu SMP Mon Dec 11 12:16:42 UTC 2017
+nodename: mrblueSky
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/mrbluesky/mrbluesky_env/use_service
+detected binary path: /home/mrbluesky/mrbluesky_env/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+your processes number limit is 3810
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:33978 (port auto-assigned) fd 3
+Python version: 3.6.4 (default, Dec 19 2017, 17:29:45)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/mrbluesky/mrbluesky_env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x868bb0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x868bb0 pid: 31086 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31086)
+spawned uWSGI worker 1 (pid: 31088, cores: 1)
+spawned uWSGI http 1 (pid: 31089)
+respawned uWSGI http 1 (pid: 31129)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 31129)
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Feb 19 01:36:33 2019] ***
+compiled with version: 5.4.0 20160609 on 14 February 2019 15:26:01
+os: Linux-4.4.0-104-generic #127-Ubuntu SMP Mon Dec 11 12:16:42 UTC 2017
+nodename: mrblueSky
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/mrbluesky/mrbluesky_env/use_service
+detected binary path: /home/mrbluesky/mrbluesky_env/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+your processes number limit is 3810
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/mrbluesky/mrbluesky_env/use_service/use_service.sock fd 3
+Python version: 3.6.4 (default, Dec 19 2017, 17:29:45)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/mrbluesky/mrbluesky_env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x86c6a0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x86c6a0 pid: 31313 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31313)
+spawned uWSGI worker 1 (pid: 31315, cores: 1)
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Feb 19 02:12:08 2019] ***
+compiled with version: 5.4.0 20160609 on 14 February 2019 15:26:01
+os: Linux-4.4.0-104-generic #127-Ubuntu SMP Mon Dec 11 12:16:42 UTC 2017
+nodename: mrblueSky
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/mrbluesky/mrbluesky_env/use_service
+detected binary path: /home/mrbluesky/mrbluesky_env/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+your processes number limit is 3810
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/mrbluesky/mrbluesky_env/use_service/use_service.sock fd 3
+Python version: 3.6.4 (default, Dec 19 2017, 17:29:45)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/mrbluesky/mrbluesky_env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1fb86a0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x1fb86a0 pid: 31672 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31672)
+spawned uWSGI worker 1 (pid: 31674, cores: 1)
+DAMN ! worker 1 (pid: 31674) died :( trying respawn ...
+Respawned uWSGI worker 1 (new pid: 31679)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/mrbluesky/mrbluesky_env/use_service/use_service.sock removed.
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+unlink(): No such file or directory [core/uwsgi.c line 1660]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Feb 19 02:14:48 2019] ***
+compiled with version: 5.4.0 20160609 on 14 February 2019 15:26:01
+os: Linux-4.4.0-104-generic #127-Ubuntu SMP Mon Dec 11 12:16:42 UTC 2017
+nodename: mrblueSky
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/mrbluesky/mrbluesky_env/use_service
+detected binary path: /home/mrbluesky/mrbluesky_env/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+your processes number limit is 3810
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/mrbluesky/mrbluesky_env/use_service/use_service.sock fd 3
+Python version: 3.6.4 (default, Dec 19 2017, 17:29:45)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/mrbluesky/mrbluesky_env/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x18ea760
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 802120 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x18ea760 pid: 31704 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31704)
+spawned uWSGI worker 1 (pid: 31706, cores: 1)
+spawned uWSGI worker 2 (pid: 31707, cores: 1)
+spawned uWSGI worker 3 (pid: 31708, cores: 1)
+spawned uWSGI worker 4 (pid: 31709, cores: 1)
+spawned uWSGI worker 5 (pid: 31710, cores: 1)
+spawned uWSGI worker 6 (pid: 31711, cores: 1)
+spawned uWSGI worker 7 (pid: 31712, cores: 1)
+spawned uWSGI worker 8 (pid: 31713, cores: 1)
+spawned uWSGI worker 9 (pid: 31714, cores: 1)
+spawned uWSGI worker 10 (pid: 31715, cores: 1)
+...brutally killing workers...
+worker 1 buried after 2 seconds
+worker 2 buried after 2 seconds
+worker 3 buried after 2 seconds
+worker 4 buried after 2 seconds
+worker 5 buried after 2 seconds
+worker 6 buried after 2 seconds
+worker 7 buried after 2 seconds
+worker 8 buried after 2 seconds
+worker 9 buried after 2 seconds
+worker 10 buried after 2 seconds
+binary reloading uWSGI...
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+closing all non-uwsgi socket fds > 2 (max_fd = 1024)...
+found fd 3 mapped to socket 0 (/home/mrbluesky/mrbluesky_env/use_service/use_service.sock)
+running /home/mrbluesky/mrbluesky_env/bin/uwsgi
+[uWSGI] getting INI configuration from use_service_uwsgi.ini
+*** Starting uWSGI 2.0.18 (64bit) on [Mon Feb 18 17:15:22 2019] ***
+compiled with version: 5.4.0 20160609 on 14 February 2019 15:26:01
+os: Linux-4.4.0-104-generic #127-Ubuntu SMP Mon Dec 11 12:16:42 UTC 2017
+nodename: mrblueSky
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/mrbluesky/mrbluesky_env/use_service
+detected binary path: /home/mrbluesky/mrbluesky_env/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+your processes number limit is 3810
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /home/mrbluesky/mrbluesky_env/use_service/use_service.sock fd 3
+Python version: 3.6.4 (default, Dec 19 2017, 17:29:45)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/mrbluesky/mrbluesky_env/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7a6540
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 802120 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7a6540 pid: 31704 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 31704)
+spawned uWSGI worker 1 (pid: 31732, cores: 1)
+spawned uWSGI worker 2 (pid: 31733, cores: 1)
+spawned uWSGI worker 3 (pid: 31734, cores: 1)
+spawned uWSGI worker 4 (pid: 31735, cores: 1)
+spawned uWSGI worker 5 (pid: 31736, cores: 1)
+spawned uWSGI worker 6 (pid: 31737, cores: 1)
+spawned uWSGI worker 7 (pid: 31738, cores: 1)
+spawned uWSGI worker 8 (pid: 31739, cores: 1)
+spawned uWSGI worker 9 (pid: 31740, cores: 1)
+spawned uWSGI worker 10 (pid: 31741, cores: 1)
+...brutally killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 10 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+closing all non-uwsgi socket fds > 2 (max_fd = 1024)...
+found fd 3 mapped to socket 0 (/home/mrbluesky/mrbluesky_env/use_service/use_service.sock)
+running /home/mrbluesky/mrbluesky_env/bin/uwsgi
+[uWSGI] getting INI configuration from use_service_uwsgi.ini
+*** Starting uWSGI 2.0.18 (64bit) on [Mon Feb 18 17:15:34 2019] ***
+compiled with version: 5.4.0 20160609 on 14 February 2019 15:26:01
+os: Linux-4.4.0-104-generic #127-Ubuntu SMP Mon Dec 11 12:16:42 UTC 2017
+nodename: mrblueSky
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/mrbluesky/mrbluesky_env/use_service
+detected binary path: /home/mrbluesky/mrbluesky_env/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+your processes number limit is 3810
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /home/mrbluesky/mrbluesky_env/use_service/use_service.sock fd 3
+Python version: 3.6.4 (default, Dec 19 2017, 17:29:45)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/mrbluesky/mrbluesky_env/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1ae7540
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 802120 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1ae7540 pid: 31704 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 31704)
+spawned uWSGI worker 1 (pid: 31747, cores: 1)
+spawned uWSGI worker 2 (pid: 31748, cores: 1)
+spawned uWSGI worker 3 (pid: 31749, cores: 1)
+spawned uWSGI worker 4 (pid: 31750, cores: 1)
+spawned uWSGI worker 5 (pid: 31751, cores: 1)
+spawned uWSGI worker 6 (pid: 31752, cores: 1)
+spawned uWSGI worker 7 (pid: 31753, cores: 1)
+spawned uWSGI worker 8 (pid: 31754, cores: 1)
+spawned uWSGI worker 9 (pid: 31755, cores: 1)
+spawned uWSGI worker 10 (pid: 31756, cores: 1)
+...brutally killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 10 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+closing all non-uwsgi socket fds > 2 (max_fd = 1024)...
+found fd 3 mapped to socket 0 (/home/mrbluesky/mrbluesky_env/use_service/use_service.sock)
+running /home/mrbluesky/mrbluesky_env/bin/uwsgi
+[uWSGI] getting INI configuration from use_service_uwsgi.ini
+*** Starting uWSGI 2.0.18 (64bit) on [Mon Feb 18 17:16:05 2019] ***
+compiled with version: 5.4.0 20160609 on 14 February 2019 15:26:01
+os: Linux-4.4.0-104-generic #127-Ubuntu SMP Mon Dec 11 12:16:42 UTC 2017
+nodename: mrblueSky
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/mrbluesky/mrbluesky_env/use_service
+detected binary path: /home/mrbluesky/mrbluesky_env/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+your processes number limit is 3810
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /home/mrbluesky/mrbluesky_env/use_service/use_service.sock fd 3
+Python version: 3.6.4 (default, Dec 19 2017, 17:29:45)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/mrbluesky/mrbluesky_env/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1b61540
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 802120 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1b61540 pid: 31704 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 31704)
+spawned uWSGI worker 1 (pid: 31792, cores: 1)
+spawned uWSGI worker 2 (pid: 31793, cores: 1)
+spawned uWSGI worker 3 (pid: 31794, cores: 1)
+spawned uWSGI worker 4 (pid: 31795, cores: 1)
+spawned uWSGI worker 5 (pid: 31796, cores: 1)
+spawned uWSGI worker 6 (pid: 31797, cores: 1)
+spawned uWSGI worker 7 (pid: 31798, cores: 1)
+spawned uWSGI worker 8 (pid: 31799, cores: 1)
+spawned uWSGI worker 9 (pid: 31800, cores: 1)
+spawned uWSGI worker 10 (pid: 31801, cores: 1)
+DAMN ! worker 10 (pid: 31801) died :( trying respawn ...
+Respawned uWSGI worker 10 (new pid: 31809)
+...brutally killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 10 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+closing all non-uwsgi socket fds > 2 (max_fd = 1024)...
+found fd 3 mapped to socket 0 (/home/mrbluesky/mrbluesky_env/use_service/use_service.sock)
+running /home/mrbluesky/mrbluesky_env/bin/uwsgi
+[uWSGI] getting INI configuration from use_service_uwsgi.ini
+*** Starting uWSGI 2.0.18 (64bit) on [Mon Feb 18 17:16:19 2019] ***
+compiled with version: 5.4.0 20160609 on 14 February 2019 15:26:01
+os: Linux-4.4.0-104-generic #127-Ubuntu SMP Mon Dec 11 12:16:42 UTC 2017
+nodename: mrblueSky
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/mrbluesky/mrbluesky_env/use_service
+detected binary path: /home/mrbluesky/mrbluesky_env/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+your processes number limit is 3810
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /home/mrbluesky/mrbluesky_env/use_service/use_service.sock fd 3
+Python version: 3.6.4 (default, Dec 19 2017, 17:29:45)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/mrbluesky/mrbluesky_env/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x20be540
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 802120 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x20be540 pid: 31704 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 31704)
+spawned uWSGI worker 1 (pid: 31815, cores: 1)
+spawned uWSGI worker 2 (pid: 31816, cores: 1)
+spawned uWSGI worker 3 (pid: 31817, cores: 1)
+spawned uWSGI worker 4 (pid: 31818, cores: 1)
+spawned uWSGI worker 5 (pid: 31819, cores: 1)
+spawned uWSGI worker 6 (pid: 31820, cores: 1)
+spawned uWSGI worker 7 (pid: 31821, cores: 1)
+spawned uWSGI worker 8 (pid: 31822, cores: 1)
+spawned uWSGI worker 9 (pid: 31823, cores: 1)
+spawned uWSGI worker 10 (pid: 31824, cores: 1)
+...brutally killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 10 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+closing all non-uwsgi socket fds > 2 (max_fd = 1024)...
+found fd 3 mapped to socket 0 (/home/mrbluesky/mrbluesky_env/use_service/use_service.sock)
+running /home/mrbluesky/mrbluesky_env/bin/uwsgi
+[uWSGI] getting INI configuration from use_service_uwsgi.ini
+*** Starting uWSGI 2.0.18 (64bit) on [Mon Feb 18 17:16:50 2019] ***
+compiled with version: 5.4.0 20160609 on 14 February 2019 15:26:01
+os: Linux-4.4.0-104-generic #127-Ubuntu SMP Mon Dec 11 12:16:42 UTC 2017
+nodename: mrblueSky
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/mrbluesky/mrbluesky_env/use_service
+detected binary path: /home/mrbluesky/mrbluesky_env/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+your processes number limit is 3810
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /home/mrbluesky/mrbluesky_env/use_service/use_service.sock fd 3
+Python version: 3.6.4 (default, Dec 19 2017, 17:29:45)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/mrbluesky/mrbluesky_env/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x2591540
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 802120 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x2591540 pid: 31704 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 31704)
+spawned uWSGI worker 1 (pid: 31878, cores: 1)
+spawned uWSGI worker 2 (pid: 31879, cores: 1)
+spawned uWSGI worker 3 (pid: 31880, cores: 1)
+spawned uWSGI worker 4 (pid: 31881, cores: 1)
+spawned uWSGI worker 5 (pid: 31882, cores: 1)
+spawned uWSGI worker 6 (pid: 31883, cores: 1)
+spawned uWSGI worker 7 (pid: 31884, cores: 1)
+spawned uWSGI worker 8 (pid: 31885, cores: 1)
+spawned uWSGI worker 9 (pid: 31886, cores: 1)
+spawned uWSGI worker 10 (pid: 31887, cores: 1)
+Mon Feb 18 17:17:48 2019 - uWSGI worker 9 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Feb 18 17:17:48 2019 - uWSGI worker 10 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Feb 18 17:17:48 2019 - uWSGI worker 8 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Feb 18 17:17:48 2019 - uWSGI worker 6 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Feb 18 17:17:48 2019 - uWSGI worker 7 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Feb 18 17:17:48 2019 - uWSGI worker 2 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Feb 18 17:17:48 2019 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Feb 18 17:17:48 2019 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Feb 18 17:17:48 2019 - uWSGI worker 5 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Feb 18 17:17:48 2019 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Feb 19 02:24:16 2019] ***
+compiled with version: 5.4.0 20160609 on 14 February 2019 15:26:01
+os: Linux-4.4.0-104-generic #127-Ubuntu SMP Mon Dec 11 12:16:42 UTC 2017
+nodename: mrblueSky
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/mrbluesky/mrbluesky_env/use_service
+detected binary path: /home/mrbluesky/mrbluesky_env/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/mrbluesky/mrbluesky_env/use_service
+your processes number limit is 3810
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/mrbluesky/mrbluesky_env/use_service/use_service.sock fd 3
+Python version: 3.6.4 (default, Dec 19 2017, 17:29:45)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/mrbluesky/mrbluesky_env/
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x20c8760
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 802120 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x20c8760 pid: 32014 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32014)
+spawned uWSGI worker 1 (pid: 32016, cores: 1)
+spawned uWSGI worker 2 (pid: 32017, cores: 1)
+spawned uWSGI worker 3 (pid: 32018, cores: 1)
+spawned uWSGI worker 4 (pid: 32019, cores: 1)
+spawned uWSGI worker 5 (pid: 32020, cores: 1)
+spawned uWSGI worker 6 (pid: 32021, cores: 1)
+spawned uWSGI worker 7 (pid: 32022, cores: 1)
+spawned uWSGI worker 8 (pid: 32023, cores: 1)
+spawned uWSGI worker 9 (pid: 32024, cores: 1)
+spawned uWSGI worker 10 (pid: 32025, cores: 1)
+DAMN ! worker 6 (pid: 32021) died, killed by signal 9 :( trying respawn ...
+Respawned uWSGI worker 6 (new pid: 7681)
+DAMN ! worker 5 (pid: 32020) died, killed by signal 9 :( trying respawn ...
+Respawned uWSGI worker 5 (new pid: 7682)
+DAMN ! worker 4 (pid: 32019) died, killed by signal 9 :( trying respawn ...
+Respawned uWSGI worker 4 (new pid: 7683)
+Thu Feb 21 12:44:53 2019 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Thu Feb 21 12:44:53 2019 - uWSGI worker 2 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Thu Feb 21 12:44:53 2019 - uWSGI worker 10 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Thu Feb 21 12:44:53 2019 - uWSGI worker 9 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Thu Feb 21 12:44:53 2019 - uWSGI worker 8 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Thu Feb 21 12:44:53 2019 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Thu Feb 21 12:44:53 2019 - uWSGI worker 7 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Thu Feb 21 12:44:53 2019 - uWSGI worker 6 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Thu Feb 21 12:44:53 2019 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Thu Feb 21 12:44:53 2019 - uWSGI worker 5 screams: UAAAAAAH my master disconnected: i will kill myself !!!
